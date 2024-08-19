@@ -7,6 +7,4 @@ print("Thank you " + customer + " for comming to our CoffeeShop!\n")
 
 order = input("Here is our menu:\n" + menu + "\n" + "What would you like to order?\n")
 
-#order = input()
-
 print("Sounds good "+ customer + ", your " + order + " will be ready in a moment.")
